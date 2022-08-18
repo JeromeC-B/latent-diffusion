@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+
+# mac os
+.DS_Store
+
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+
+
+# jupyter
+.ipynb_checkpoints/
+
+# les poids de models
+*.ckpt
+
+
+# le dossier src est nébuleux..
+src/
